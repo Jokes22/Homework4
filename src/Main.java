@@ -82,7 +82,6 @@ public class Main {
             System.out.println("В вагоне есть сидячее или стоячее место");
         }
     }
-
     public static void task7() {
         System.out.println("Задача 7");
         int number = 3;
@@ -92,6 +91,7 @@ public class Main {
         if (number > one && number == two)
         {System.out.println("2");}
         else { System.out.println("3");}
+
         }}
 
 

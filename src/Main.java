@@ -92,7 +92,6 @@ public class Main {
         if (number > one && number == two)
         {System.out.println("2");}
         else { System.out.println("3");}
-
         }}
 
 
